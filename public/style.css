@@ -1,4 +1,5 @@
 
+
 #resetButton{
     width: fit-content;
     background-color: rgb(72, 197, 72);
@@ -8,35 +9,40 @@
     border-radius: 10px;
     color:black;
     margin-top: 20px;
-}
-#heading1{
+ }
+ #heading1{
     margin-top: 20px;
-
+ 
+ 
     color: rgba(0, 0, 0, 0.366);
     font-size:x-large;
-}
-#heading2{
+ }
+ #heading2{
     color: black;
-}
-
-.detailsbox{
+ }
+ 
+ 
+ .detailsbox{
     margin-left: 250px;
-}
-
-.mainheading{
+ }
+ 
+ 
+ .mainheading{
     color: white;
     position: absolute;
     left: 250px;
-}
-.addbtn{
+ }
+ .addbtn{
     margin-top: 70px;
     margin-left: 250px;
     position: relative;
-}
-.addbtn1{
+ }
+ .addbtn1{
     margin-top: 70px;
     background-color: rgb(48, 177, 48);
     border-radius: 5px;
     padding: 2px 10px;
     position: relative;
-}
+ }
+ 
+ 
